@@ -1,3 +1,5 @@
+Esse é um portifólio pessoal, ainda será feita alterações, ele é baseado no template iPortfolio.
+
 Thanks for downloading this template!
 
 Template Name: iPortfolio
